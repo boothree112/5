@@ -522,4 +522,58 @@ Cypher 和 SPARQL 使用 SELECT 立即跳转，但是 Datalog 一次只进行一
 1.  Dennis A. Benson,  Ilene Karsch-Mizrachi, David J. Lipman, et al.: “[GenBank](http://nar.oxfordjournals.org/content/36/suppl_1/D25.full-text-lowres.pdf),”   *Nucleic Acids Research*, volume 36, Database issue, pages D25–D30, December 2007.   [doi:10.1093/nar/gkm929](http://dx.doi.org/10.1093/nar/gkm929)
 
 
-| 上一章                                       | 目录                            | 下一章                       |
+| 上一章                                       | 目录                            | 下一章                       |*$py.class
+# Torch Models
+*.pkl
+current_train.py
+video_test*.py
+*.swp
+# C extensions
+.Python
+local_test.py
+.DS_STORE
+.idea/
+.vscode/
+env/
+build/
+dist/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+*.egg-info/
+*.egg
+
+#  Usually these files are written by a python script from a template
+
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+*.mo
+# Django stuff:
+*.log
+instance/
+
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+# PyBuilder
+
+# IPython Notebook
+.ipynb_checkpoints
+# pyenv
+
+
+# dotenv
+.env
+
+ENV/
+# Spyder project settings
+# Rope project settings
